@@ -1,5 +1,23 @@
 body {
     background: lightgrey;
+    font-family: Arial;
+    padding: 10px;
 }
 
+#page-title {
+    color: purple;
+    font-size: 40px;
+    font-weight: 800;
+    text-align: center;
+}
+
+.line-name {
+    background: grey;
+    color: white;
+    padding: 30px;
+}
+
+.express {
+    background: red;
+}
 
